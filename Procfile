@@ -1,1 +1,0 @@
-web: gunicorn langosta.wsgi --log-file -
