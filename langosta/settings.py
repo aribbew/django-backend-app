@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-97lc18u)1jl4h$bmq$5k%%uz^=ntv+)**4l^z3junu)1d48@2n
 DEBUG = False
 
 # ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
-ALLOWED_HOSTS = ['langosta-restaurant.com,www.langosta-restaurant.com']
+ALLOWED_HOSTS = ['langosta-restaurant.com','www.langosta-restaurant.com']
 
 
 # Application definition
